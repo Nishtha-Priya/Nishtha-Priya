@@ -34,9 +34,6 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nishtha-Priya&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nishtha-Priya/Nishtha-Priya/output/github-snake-dark.svg" />
@@ -51,6 +48,8 @@
   </div>
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nishtha-Priya&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🔝 Top Contributed Repo
 <div align="center">
