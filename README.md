@@ -40,10 +40,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nishtha-Priya&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">
+<!-- Snake Game Repo View -->
 
-  ![snake gif](https://github.com/Nishtha-Priya/Nishtha-Priya/blob/output/github-snake-dark.svg)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nishtha-Priya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
