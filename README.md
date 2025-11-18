@@ -43,8 +43,9 @@
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Nishtha-Priya/Nishtha-Priya/output/github-snake-dark.svg" />
 </div>
+
 
 
 ## 🔝 Top Contributed Repo
