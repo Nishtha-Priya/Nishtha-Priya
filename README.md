@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""/>
+  <img src="https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif" width="100%" alt="header gif"/>
 </p>
 
 <h1 align="center">Hi! I'm Nishtha 💮</h1>
@@ -40,18 +40,38 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nishtha-Priya&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Snake Game Repo View -->
-
+## 📈 Contribution Graph
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nishtha-Priya/Nishtha-Priya/output/github-snake-dark.svg" />
 </div>
+<br/>
 
+---
+
+<div align="center">
+  <div style="display:inline-block;border-radius:14px;overflow:hidden;box-shadow:0 8px 30px rgba(0,0,0,0.45);">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishtha-Priya&theme=react-dark&area=true&hide_border=true&color=ff9ccf&bg_color=071028" alt="flower-like activity" />
+  </div>
+</div>
 
 
 ## 🔝 Top Contributed Repo
+<div align="center">
+  
 ![](https://github-contributor-stats.vercel.app/api?username=Nishtha-Priya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=Nishtha-Priya&icon=10&color=13)](https://visitcount.itsvg.in)
 
-## 🌐 Contact via:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishthapriya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishthaa.priya@gmail.com) 
+</div>
+  
+---
+### 🌐 Contact via:
+<p align="center">
+  <a href="https://linkedin.com/in/nishthapriya">
+    <img src="https://img.shields.io/badge/-LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nishthaa.priya@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
