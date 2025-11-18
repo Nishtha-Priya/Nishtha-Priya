@@ -27,10 +27,10 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishtha-Priya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nishtha-Priya&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishtha-Priya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="180em" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nishtha-Priya&theme=tokyonight&hide_border=false" height="180em"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishtha-Priya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishtha-Priya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180em"/>
 
 </div>
 
