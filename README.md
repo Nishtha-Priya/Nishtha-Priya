@@ -28,11 +28,8 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Nishtha-Priya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
-
   <img src="https://nirzak-streak-stats.vercel.app/?user=Nishtha-Priya&theme=tokyonight&hide_border=false" />
-
   <br/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishtha-Priya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 
 </div>
