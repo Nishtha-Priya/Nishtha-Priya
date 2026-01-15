@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif" width="100%" alt="header gif"/>
+  <img src="https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif" width="75%" alt="header gif"/>
 </p>
 
 <h1 align="center">Hi! I'm Nishtha 💮</h1>
@@ -22,18 +22,6 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
 </p>
 
-
-## 📊 GitHub Stats:
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishtha-Priya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="160em" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nishtha-Priya&theme=tokyonight&hide_border=false" height="160em"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishtha-Priya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
-
-</div>
-
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nishtha-Priya/Nishtha-Priya/output/github-snake-dark.svg" />
@@ -47,9 +35,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishtha-Priya&theme=react-dark&area=true&hide_border=true&color=ff9ccf&bg_color=071028" alt="flower-like activity" />
   </div>
 </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nishtha-Priya&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🔝 Top Contributed Repo
 <div align="center">
