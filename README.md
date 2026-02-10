@@ -2,6 +2,8 @@
   <img src="https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif" width="75%" alt="header gif"/>
 </p>
 
+
+
 <h1 align="center">Hi! I'm Nishtha 💮</h1>
 <h3 align="center">curious and creating stuff 🪶</h3>
 
@@ -22,6 +24,19 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
 </p>
 
+---
+
+<h2>🚀 Experience Highlights:</h2>
+
+<details>
+  <summary><b>🏢 DRDO | Summer Research Intern</b> <i>(06/2025 - 07/2025)</i></summary>
+  <br>
+  <ul>
+    <li>🤖 Built a 3-class classifier (ANN/1D CNN) to distinguish ciphertexts generated from a 128-bit <b>LED cipher</b>.</li>
+    <li>⚡ Applied <b>Explainable AI</b> techniques (SHAP, LIME) to interpret model decisions.</li>
+  </ul>
+</details>
+
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nishtha-Priya/Nishtha-Priya/output/github-snake-dark.svg" />
@@ -34,15 +49,6 @@
   <div style="display:inline-block;border-radius:14px;overflow:hidden;box-shadow:0 8px 30px rgba(0,0,0,0.45);">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishtha-Priya&theme=react-dark&area=true&hide_border=true&color=ff9ccf&bg_color=071028" alt="flower-like activity" />
   </div>
-</div>
-
-## 🔝 Top Contributed Repo
-<div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=Nishtha-Priya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=Nishtha-Priya&icon=10&color=13)](https://visitcount.itsvg.in)
-
 </div>
   
 ---
