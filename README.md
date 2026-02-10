@@ -24,9 +24,7 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
 </p>
 
----
-
-<h2>🚀 Experience Highlights:</h2>
+## 🚀 Experience Highlights:
 
 <details>
   <summary><b>🏢 DRDO | Summer Research Intern</b> <i>(06/2025 - 07/2025)</i></summary>
@@ -36,6 +34,40 @@
     <li>⚡ Applied <b>Explainable AI</b> techniques (SHAP, LIME) to interpret model decisions.</li>
   </ul>
 </details>
+
+
+## 💡 Featured Projects:
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🖖 Indian Sign Language Detection Model AI</h3>
+      <p align="center"><i>Detects hand signs of Indian Sign Language using an ML model.</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-FF4F8B?style=flat-square" />
+        <img src="https://img.shields.io/badge/TensorFlow-7328b6?style=flat-square" />
+      </p>
+      <ul>
+        <li>Real-time hand gesture recognition.</li>
+        <li>Live webcam input processing.</li>
+        <li>Preprocessed and trained on labeled ISL data.</li>
+      </ul>
+    </td>
+     <td width="50%" valign="top">
+      <h3 align="center">🌆 CityPulse – Smart City Information Dashboard</h3>
+      <p align="center"><i>A web-based interactive dashboard that visualizes real-time and static smart city data.</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-eb3434?style=flat-square" />
+        <img src="https://img.shields.io/badge/HTML5-34ebeb?style=flat-square" />
+        <img src="https://img.shields.io/badge/Leaflet.js-3496eb?style=flat-square" />
+      </p>
+      <ul>
+        <li>Real-time weather card display.</li>
+        <li>Leaflet-powered interactive campus/city map</li>
+      </ul>
+    </td>
+      </tr>
+</table>
 
 ## 📈 Contribution Graph
 <div align="center">
