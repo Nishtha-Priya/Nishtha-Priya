@@ -1,28 +1,24 @@
 name: Generate Snake
 
 on:
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
-      # Checkout
       - uses: actions/checkout@v4
 
-      # Generate snake SVG
       - uses: Platane/snk@v3
         with:
           github_user_name: Nishtha-Priya
-          outputs: |
-            github-snake-dark.svg?palette=github-dark
+          outputs: github-snake-dark.svg?palette=github-dark
 
-      # Push the generated SVG into 'output' branch root
-      - name: Push files to output
-        uses: actions-ecosystem/action-create-commit@v3
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
-          branch: output
-          commit_message: "Update snake"
-          file_pattern: github-snake-dark.svg
+          target_branch: output
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
