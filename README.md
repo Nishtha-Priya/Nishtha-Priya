@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif" width="75%" alt="header gif"/>
-</p>
-
-
-
-<h1 align="center">Hi! I'm Nishtha 💮</h1>
-<h3 align="center">curious and creating stuff 🪶</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,7,8,9&height=220&text=Nishtha%20Priya&fontSize=72&fontAlignY=44&animation=fadeIn&desc=AI%20%E2%80%A2%20Systems%20%E2%80%A2%20Design&descAlignY=64&section=header" width="100%"/>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=c792ea&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;Research+Engineer;Creative+Technologist;Model+Interpreter" alt="Typing SVG" />
+  </a>
+</div>
 
 ## 💻 Tech Stack:
 
