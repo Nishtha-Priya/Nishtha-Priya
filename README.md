@@ -5,6 +5,10 @@
   </a>
 </div>
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Nishtha-Priya&label=Profile%20views&color=7aa2f7&style=flat-square" />
+</p>
+
 ## 💻 Tech Stack:
 
 <p align="center">
