@@ -75,15 +75,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nishtha-Priya/Nishtha-Priya/output/github-snake-dark.svg" />
 </div>
-<br/>
-
----
-
-<div align="center">
-  <div style="display:inline-block;border-radius:14px;overflow:hidden;box-shadow:0 8px 30px rgba(0,0,0,0.45);">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishtha-Priya&theme=react-dark&area=true&hide_border=true&color=ff9ccf&bg_color=071028" alt="flower-like activity" />
-  </div>
-</div>
   
 ---
 ### 🌐 Contact via:
